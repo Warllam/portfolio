@@ -184,10 +184,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // ==========================================
 const typewriter = document.querySelector('.typewriter');
 const texts = [
-    'Developer & Tech Enthusiast',
-    'Privacy Advocate',
-    'Self-Hosting Enthusiast',
-    'Automation Lover'
+    'Full-Stack Developer',
+    'Building AI Products',
+    'Open-Source Builder',
+    'Self-Hosting Everything'
 ];
 
 let textIndex = 0;
